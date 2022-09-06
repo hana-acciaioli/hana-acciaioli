@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hana-acciaioli
+- 👋 Hi, I’m @hana-acciaioli (she/her)
 - 👀 I’m interested in learning about APIs and data sources. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on alchemy projects.
