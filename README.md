@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hana-acciaioli (she/her)
 - 👀 I’m interested in learning about APIs, data architecture, everything web related.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on alchemy projects.
 - 📫 How to reach me on Likedin: Hana Jones Acciaioli https://www.linkedin.com/in/hana-jones-acciaioli-83b254202/
 
