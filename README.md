@@ -3,7 +3,7 @@
 <br>✨ Known for enthusiastic personality with a hands-on, creative style. 
 <br>
 <br>
-[<img src="https://user-images.githubusercontent.com/104444969/212208836-3b13756c-3b29-4427-9d64-3d57b57fb391.png" width="20" />](https://www.linkedin.com/in/hana-jones-acciaioli-83b254202/) How to reach me on Likedin: [Hana Jones Acciaioli](https://www.linkedin.com/in/hana-jones-acciaioli-83b254202/)
+[<img src="https://user-images.githubusercontent.com/104444969/212208836-3b13756c-3b29-4427-9d64-3d57b57fb391.png" width="20" />](https://www.linkedin.com/in/hana-jones-acciaioli-83b254202/) Connect with me on Likedin: [Hana Jones Acciaioli](https://www.linkedin.com/in/hana-jones-acciaioli-83b254202/)
 <br>📫Or email me @ hana.acciaioli@gmail.com
 <br>
 - LIBRARIES & FRAMEWORKS:
